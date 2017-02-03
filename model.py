@@ -1,6 +1,4 @@
 # coding:utf-8
-from __future__ import absolute_import
-from __future__ import unicode_literals
 import chainer.links as L
 import chainer.functions as F
 import chainer
